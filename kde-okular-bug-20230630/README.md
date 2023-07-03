@@ -10,3 +10,7 @@
 ### Sample 1, Round 2
 
 * [Poppler-23.06-builtAgainst-23.01.pdf](https://github.com/jmbreuer/heap/raw/main/kde-okular-bug-20230630/Poppler-23.06-builtAgainst-23.01.pdf) a few more annotations (starting directly from original.pdf) on PDF page 7/document page number 3; using Okular 22.12.3, using Poppler 23.06.0, built against Poppler 23.01.0
+
+### Sample 1, Round 3
+
+* [Okular-23.04.2-Poppler-23.06.pdf](https://github.com/jmbreuer/heap/raw/main/kde-okular-bug-20230630/Okular-23.04.2-Poppler-23.06.pdf) the same few more annotations (again, starting directly from original.pdf) on PDF page 7/document page number 3; using Okular 23.04.2, using Poppler 23.06.0 (also built against Poppler 23.06.0). With this, there doesn't seem to be a significant increase in size per each added annotation any more.
